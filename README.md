@@ -6,6 +6,8 @@
 
 ## a. unread order
 
+![1](https://github.com/tank606/TableFlash/blob/master/unreadOrder.png)
+
 ## b. notification
 
 ![1](https://github.com/tank606/TableFlash/blob/master/Notification.png)
