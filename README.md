@@ -1,5 +1,7 @@
 # Company website
-https://www.tableflash.com/
+https://www.tableflash.com/business. 
+
+[Product demo](https://www.youtube.com/watch?v=na85xPQ8aQA&t=46s)
 
 # Tableflash_Simplified-version (Android | Java)
 https://github.com/tank606/Tableflash_Simplified-version
